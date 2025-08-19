@@ -34,5 +34,5 @@ The goal of this repository is to provide clean, well-structured, and easy-to-un
 
 ## 📖 How to Use
 1. Clone the repository:
-   git clone https://github.com/Abubakar Orakzai/DSA-in-C-plus
+   git clone https://github.com/AbubakarOrakzai/DSA-in-C-plus
 .git
